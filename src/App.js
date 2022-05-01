@@ -11,7 +11,7 @@ function App() {
       <GlobalStyles />
       <Nav />
       <Routes>
-        <Route exaxt path="/" element={<Home />} />
+        <Route exaxt path="/igniteMERNStackDemo/" element={<Home />} />
         <Route exact path="/game/:id" element={<Home />} />
       </Routes>
     </div>
