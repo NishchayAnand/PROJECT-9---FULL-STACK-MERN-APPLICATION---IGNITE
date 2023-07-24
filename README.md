@@ -1,6 +1,6 @@
-# IGNITE - DEMO REACT APPLICATION
+# IGNITE - REACT-BASED WEB APPLICATION
 
-Built using React and Redux. This application uses rawg.io API to fetch a list of new and popular video games.
+A React-based frontend application that seamlessly integrates with the rawg.io API to fetch an up-to-date list of new and popular video games, allowing gamers to access the latest gaming content with ease. 
 
 ## Hosted on:
 
